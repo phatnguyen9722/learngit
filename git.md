@@ -20,3 +20,6 @@ git checkout -b BranchName
 git merge BranchName
 
 Delete brancn : git branch -d BranchName
+
+
+git push + link BranchName
