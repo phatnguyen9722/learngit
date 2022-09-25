@@ -1,3 +1,10 @@
+#Terms
+
+Reposity (repo)
+Branch
+Conflict : xung đột
+
+
 git init
 git status
 git add 
