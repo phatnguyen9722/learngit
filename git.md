@@ -10,3 +10,6 @@ git checkout ID
 git checkout BranchName
 git branch 
 git checkout -b BranchName
+git merge BranchName
+
+Delete brancn : git branch -d BranchName
